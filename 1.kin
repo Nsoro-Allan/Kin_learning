@@ -1,0 +1,6 @@
+tangaza_amakuru("Welcome to first demo app")
+
+reka name = injiza_amakuru("Enter your name:")
+
+tangaza_amakuru("Welcome,",name)
+
